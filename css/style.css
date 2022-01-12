@@ -253,11 +253,11 @@ p {
 }
 
 #contact-form label {
-  display:block;
+  display: block;
   margin-bottom: 5px;
 }
 
-#contact-form input, 
+#contact-form input,
 #contact-form textarea {
   width: 100%;
   padding: 10px;
@@ -268,10 +268,10 @@ p {
   height: 200px;
 }
 
-#contact-form input:focus, 
+#contact-form input:focus,
 #contact-form textarea:focus {
- outline:none;
- border-color: #f7c08a;
+  outline: none;
+  border-color: #f7c08a;
 }
 
 
