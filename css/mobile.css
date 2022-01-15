@@ -25,8 +25,12 @@
 
 
 /* home info */
-#home-info .info-img {
+#home-info {
   height: 550px;
+}
+
+#home-info .info-img {
+  display: none;
 }
 
 #home-info .info-content {
